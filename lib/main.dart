@@ -47,8 +47,8 @@ class _ImageTryState extends State<ImageTry> {
                   msg: "Imagine Your Next Question Please !",
                   toastLength: Toast.LENGTH_SHORT,
                   gravity: ToastGravity.BOTTOM,
-                  backgroundColor: Colors.white,
-                  textColor: Colors.black,
+                  backgroundColor: Colors.grey[700],
+                  textColor: Colors.white,
                   fontSize: 16.0
               );
               });
