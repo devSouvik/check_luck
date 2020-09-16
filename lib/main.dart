@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.grey,
+        backgroundColor: Colors.lightBlueAccent,
         appBar: AppBar(
-          backgroundColor: Colors.teal,
+          backgroundColor: Colors.blueGrey,
           title: Center(
             child: Text('Clear Your Doubts ! '),
           ),
